@@ -11,5 +11,9 @@
 * Este cuantrimestre los profesores somos [Gerardo González], **Lucas Spigariol** y **Hernan Coniglio**
 * Vamos a tener distintas alternativas de horarios para consultas y práctica.
 
+## Conociendo el mundo de la programacion!!
+! [🤪] 
+
+
 ## dejamos una reflexión 🤪
 ![somos todos](https://github.com/obj1-unahur-2022s1/PresentacionPersonal/blob/main/meme.jpg)
